@@ -1,5 +1,5 @@
 "# Walmart-Sales-Analysis" 
-# Walmart Data Analysis: End-to-End SQL + Python Project
+# Walmart Data Analysis: SQL + Python Project
 
 ## Project Overview
 
